@@ -1,2 +1,2 @@
 # Streak-Tracker
-Manage all your progress streaks in one place
+Create and manage all your streaks progress in one place
